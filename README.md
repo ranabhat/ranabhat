@@ -1,3 +1,3 @@
-[![Header](https://raw.githubusercontent.com/ranabhat/ranabhat/master/header_paribesh.png)](https://ranabhat.github.io/)
+![img](header_paribesh.png)
 
-
+# Hello, folks! 
