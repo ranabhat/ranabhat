@@ -2,7 +2,7 @@
 
 # Namaste, folks! :pray: <!-- <img src="https://raw.githubusercontent.com/ranabhat/ranabhat/main/wave.gif" width="30px">-->
 
-I am  Paribesh Ranabhat and I'm a software enginner. I'm from Nepal, living in Helsinki and currently working at Unified Chargers, a Finnish developer of compact DC charging stations for electric vehicles. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I am  Paribesh Ranabhat and I'm a software enginner. I'm from Nepal, living in Helsinki and currently working at [Unified Chargers Oy](https://www.unifiedchargers.fi/en-gb/home "Finnish manufacturer and supplier of EV charging stations"), a Finnish developer of compact DC charging stations for electric vehicles. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; About Me
 
