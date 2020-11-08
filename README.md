@@ -6,7 +6,7 @@ I am  Paribesh Ranabhat and I'm a software enginner. I'm from Nepal, living in H
 
 ## &#x270d; About Me
 
-Software Developer, an aspiring entrepreneur, a relentless optimist and thirst for knowledge and desire to research everything.
+Software Engineer, an aspiring entrepreneur, a relentless optimist and thirst for knowledge and desire to research everything.
 
 I spend ample time designing, coding, testing, bug fixing, monitoring, documenting involved in creating and maintaining core software application that offers effortless, safe and quality electric vehicle charging experience for our customers. 
 
