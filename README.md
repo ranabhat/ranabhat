@@ -30,8 +30,6 @@ I write programs with Python, shell scripting to automate processes in microproc
 ![](https://img.shields.io/badge/Project_Management-Confluence-informational?style=flat&logo=confluence&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Communication_Channel-Slack-informational?style=flat&logo=slack&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Communication_Channel-Microsoft_Teams-informational?style=flat&logo=microsoft-teams&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Hugo-informational?style=flat&logo=hugo&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
