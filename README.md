@@ -22,6 +22,7 @@ I write programs with Python, shell scripting to automate processes in microproc
 ![](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Containers-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Kubernetes-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CI-Travis-informational?style=flat&logo=travis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VC-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VC-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
