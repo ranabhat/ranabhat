@@ -1,6 +1,6 @@
 # Namaste, folks! :pray: <!-- <img src="https://raw.githubusercontent.com/ranabhat/ranabhat/main/wave.gif" width="30px">-->
 
-I’m Paribesh Ranabhat, a software engineer from Nepal, now based in Helsinki. I currently work at [Parking Energy Oy](https://parkingenergy.com "Finnish manufacturer and supplier of AC charging stations"), a Finnish company specializing in innovative AC charging solutions for electric vehicles. Connect with me on [![X][1.2]][1] or [![LinkedIn][3.2]][3].
+I’m Paribesh Ranabhat, a software engineer from [Pokhara](https://ntb.gov.np/pokhara), Nepal, now based in Helsinki. I currently work at [Parking Energy Oy](https://parkingenergy.com "Finnish manufacturer and supplier of AC charging stations"), a Finnish company specializing in innovative AC charging solutions for electric vehicles. Connect with me on [![X][1.2]][1] or [![LinkedIn][3.2]][3].
 
 ## &#x1f4c8; GitHub Stats
 
