@@ -8,11 +8,6 @@ I’m Paribesh Ranabhat, a software engineer from Nepal, now based in Helsinki. 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranabhat&hide=java,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/ranabhat/ranabhat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ranabhat&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Paribesh's GitHub Stats" />
-</a>
-
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
